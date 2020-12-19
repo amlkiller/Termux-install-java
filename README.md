@@ -14,6 +14,7 @@
 ### 方法二
 直接使用安装包进行安装。  
 termux是基于Debian的，所以可以使用Debian的包进行安装。  
+安装包来自于大佬when插件之中。  
 安装指令：
 >wget https://github.com/amlkiller/Termux-install-java/releases/download/java-8-jdk_1.8.0-151_aarch64/java-8-jdk_1.8.0-151_aarch64.deb  
 >  
